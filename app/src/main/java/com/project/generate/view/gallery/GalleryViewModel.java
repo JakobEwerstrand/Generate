@@ -1,4 +1,4 @@
-package com.project.generate.ui.gallery;
+package com.project.generate.view.gallery;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
