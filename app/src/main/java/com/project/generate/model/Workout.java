@@ -1,7 +1,6 @@
 package com.project.generate.model;
 
 import java.util.ArrayList;
-import java.util.Calendar;
 
 /**
  * responsibility: A simple workout.
@@ -22,11 +21,11 @@ public class Workout {
         this.workoutName = workoutName;
     }
 
-    public String getWorkoutName() {
+    public String getName() {
         return workoutName;
     }
 
-    public void setWorkoutName(String workoutName) {
+    public void setName(String name) {
         this.workoutName = workoutName;
     }
 

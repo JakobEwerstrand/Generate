@@ -1,8 +1,8 @@
 <resources>
 
-    <style workoutName="AppTheme.NoActionBar">
-        <item workoutName="windowActionBar">false</item>
-        <item workoutName="windowNoTitle">true</item>
-        <item workoutName="android:statusBarColor">@android:color/transparent</item>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 </resources>

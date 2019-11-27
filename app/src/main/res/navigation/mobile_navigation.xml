@@ -7,37 +7,37 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:workoutName="com.project.generate.view.HomeFragment"
+        android:name="com.project.generate.view.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:workoutName="com.project.generate.view.GalleryFragment"
+        android:name="com.project.generate.view.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:workoutName="com.project.generate.view.SlideshowFragment"
+        android:name="com.project.generate.view.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/nav_tools"
-        android:workoutName="com.project.generate.view.ToolsFragment"
+        android:name="com.project.generate.view.ToolsFragment"
         android:label="@string/menu_tools"
         tools:layout="@layout/fragment_tools" />
 
     <fragment
         android:id="@+id/nav_share"
-        android:workoutName="com.project.generate.view.ShareFragment"
+        android:name="com.project.generate.view.ShareFragment"
         android:label="@string/menu_share"
         tools:layout="@layout/fragment_share" />
 
     <fragment
         android:id="@+id/nav_send"
-        android:workoutName="com.project.generate.view.SendFragment"
+        android:name="com.project.generate.view.SendFragment"
         android:label="@string/menu_send"
         tools:layout="@layout/fragment_send" />
 </navigation>
