@@ -1,4 +1,4 @@
 package com.project.generate.model;
 
-public class main {
+public class Settings {
 }
